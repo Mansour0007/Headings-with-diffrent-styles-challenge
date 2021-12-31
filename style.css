@@ -1,0 +1,17 @@
+html {
+  scroll-behavior: smooth;
+}
+body {
+  position: relative;
+}
+.up {
+  position: fixed;
+  width: 15px;
+  right: 15px;
+  bottom: 15px;
+  background-color: red;
+  padding: 7px;
+}
+.up a {
+  color: #fff;
+}
